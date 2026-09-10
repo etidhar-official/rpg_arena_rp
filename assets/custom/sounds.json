@@ -1,0 +1,17 @@
+{
+  "totem1": {
+    "sounds": ["custom:totem1"]
+  },
+  "sell_item": {
+    "sounds": ["custom:sell_item"]
+  },
+  "music1": {
+    "sounds": ["custom:music1"]
+  },
+  "music2": {
+    "sounds": ["custom:music2"]
+  },
+  "music3": {
+    "sounds": ["custom:music3"]
+  }
+}

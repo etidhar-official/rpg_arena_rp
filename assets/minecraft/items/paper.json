@@ -1,0 +1,384 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/paper"
+    },
+    "entries": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "rpg:item/dollar1"
+        },
+        "threshold": 1
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "rpg:item/dollar2"
+        },
+        "threshold": 2
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "rpg:item/dollar3"
+        },
+        "threshold": 3
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "rpg:item/dollar4"
+        },
+        "threshold": 4
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "rpg:item/advancments/stats"
+        },
+        "threshold": 10
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "rpg:item/advancments/level_up"
+        },
+        "threshold": 11
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "rpg:item/advancments/class_changer"
+        },
+        "threshold": 12
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "rpg:item/advancments/kills_1"
+        },
+        "threshold": 13
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "rpg:item/advancments/kills_2"
+        },
+        "threshold": 14
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "rpg:item/advancments/kills_3"
+        },
+        "threshold": 15
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "rpg:item/advancments/kills_4"
+        },
+        "threshold": 16
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "rpg:item/advancments/money_1"
+        },
+        "threshold": 17
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "rpg:item/advancments/money_2"
+        },
+        "threshold": 18
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "rpg:item/advancments/money_3"
+        },
+        "threshold": 19
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "rpg:item/advancments/class"
+        },
+        "threshold": 20
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "rpg:item/advancments/leggendary"
+        },
+        "threshold": 21
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "rpg:item/advancments/mythical"
+        },
+        "threshold": 22
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "rpg:item/advancments/uniques"
+        },
+        "threshold": 23
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "rpg:item/statue"
+        },
+        "threshold": 24
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "rpg:item/advancments/money_4"
+        },
+        "threshold": 25
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "rpg:item/advancments/mobipedia"
+        },
+        "threshold": 100
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "rpg:item/advancments/zombie_l1"
+        },
+        "threshold": 101
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "rpg:item/advancments/zombie_l2"
+        },
+        "threshold": 102
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "rpg:item/advancments/zombie_l3"
+        },
+        "threshold": 103
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "rpg:item/advancments/zombie_l4"
+        },
+        "threshold": 104
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "rpg:item/advancments/skeleton_l1"
+        },
+        "threshold": 105
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "rpg:item/advancments/skeleton_l2"
+        },
+        "threshold": 106
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "rpg:item/advancments/skeleton_l3"
+        },
+        "threshold": 107
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "rpg:item/advancments/skeleton_l4"
+        },
+        "threshold": 108
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "rpg:item/advancments/hound_l1"
+        },
+        "threshold": 109
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "rpg:item/advancments/goblin_l1"
+        },
+        "threshold": 110
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "rpg:item/advancments/stray_l1"
+        },
+        "threshold": 111
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "rpg:item/advancments/zombie_knight_l1"
+        },
+        "threshold": 112
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "rpg:item/advancments/zombie_tank_l1"
+        },
+        "threshold": 113
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "rpg:item/advancments/zombie_assassin_l1"
+        },
+        "threshold": 114
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "rpg:item/advancments/zombie_knight_l2"
+        },
+        "threshold": 115
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "rpg:item/advancments/zombie_tank_l2"
+        },
+        "threshold": 116
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "rpg:item/advancments/goblin_l2"
+        },
+        "threshold": 117
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "rpg:item/advancments/hound_l2"
+        },
+        "threshold": 118
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "rpg:item/advancments/zombie_paladin_mb"
+        },
+        "threshold": 119
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "rpg:item/advancments/goblin_l3"
+        },
+        "threshold": 120
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "rpg:item/advancments/hound_l3"
+        },
+        "threshold": 121
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "rpg:item/advancments/hound_mb"
+        },
+        "threshold": 122
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "rpg:item/regular_dungeon_door"
+        },
+        "threshold": 1000
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "rpg:item/zombie_dungeon_door"
+        },
+        "threshold": 1001
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "rpg:item/skeleton_dungeon_door"
+        },
+        "threshold": 1002
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "rpg:item/spider_dungeon_door"
+        },
+        "threshold": 1003
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "rpg:item/zombie_dungeon_door"
+        },
+        "threshold": 1004
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "rpg:item/trap1"
+        },
+        "threshold": 1100
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "rpg:item/desert_dungeon/skeleton_key"
+        },
+        "threshold": 1200
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "rpg:item/desert_dungeon/zombie_key"
+        },
+        "threshold": 1201
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "rpg:item/desert_dungeon/spider_key"
+        },
+        "threshold": 1202
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "rpg:item/desert_dungeon/sandy_bone"
+        },
+        "threshold": 1203
+      }
+    ]
+  }
+}

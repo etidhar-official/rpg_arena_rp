@@ -1,0 +1,217 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/paper"
+  },
+  "overrides": [
+
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "custom/dollar1"
+    },
+    {
+      "predicate": { "custom_model_data": 2 },
+      "model": "custom/dollar2"
+    },
+    {
+      "predicate": { "custom_model_data": 3 },
+      "model": "custom/dollar3"
+    },
+    {
+      "predicate": { "custom_model_data": 4 },
+      "model": "custom/dollar4"
+    },
+    {
+      "predicate": { "custom_model_data": 10 },
+      "model": "custom/advancments/stats"
+    },
+    {
+      "predicate": { "custom_model_data": 11 },
+      "model": "custom/advancments/level_up"
+    },
+    {
+      "predicate": { "custom_model_data": 12 },
+      "model": "custom/advancments/class_changer"
+    },
+    {
+      "predicate": { "custom_model_data": 13 },
+      "model": "custom/advancments/kills_1"
+    },
+    {
+      "predicate": { "custom_model_data": 14 },
+      "model": "custom/advancments/kills_2"
+    },
+    {
+      "predicate": { "custom_model_data": 15 },
+      "model": "custom/advancments/kills_3"
+    },
+    {
+      "predicate": { "custom_model_data": 16 },
+      "model": "custom/advancments/kills_4"
+    },
+    {
+      "predicate": { "custom_model_data": 17 },
+      "model": "custom/advancments/money_1"
+    },
+    {
+      "predicate": { "custom_model_data": 18 },
+      "model": "custom/advancments/money_2"
+    },
+    {
+      "predicate": { "custom_model_data": 19 },
+      "model": "custom/advancments/money_3"
+    },
+    {
+      "predicate": { "custom_model_data": 20 },
+      "model": "custom/advancments/class"
+    },
+    {
+      "predicate": { "custom_model_data": 21 },
+      "model": "custom/advancments/leggendary"
+    },
+    {
+      "predicate": { "custom_model_data": 22 },
+      "model": "custom/advancments/mythical"
+    },
+    {
+      "predicate": { "custom_model_data": 23 },
+      "model": "custom/advancments/uniques"
+    },
+    {
+      "predicate": { "custom_model_data": 24 },
+      "model": "custom/statue"
+	},
+    {
+      "predicate": { "custom_model_data": 25 },
+      "model": "custom/advancments/money_4"
+    },
+	{
+      "predicate": { "custom_model_data": 100 },
+      "model": "custom/advancments/mobipedia"
+    },
+    {
+      "predicate": { "custom_model_data": 101 },
+      "model": "custom/advancments/zombie_l1"
+    },
+    {
+      "predicate": { "custom_model_data": 102 },
+      "model": "custom/advancments/zombie_l2"
+    },
+    {
+      "predicate": { "custom_model_data": 103 },
+      "model": "custom/advancments/zombie_l3"
+    },
+    {
+      "predicate": { "custom_model_data": 104 },
+      "model": "custom/advancments/zombie_l4"
+    },
+    {
+      "predicate": { "custom_model_data": 105 },
+      "model": "custom/advancments/skeleton_l1"
+    },
+    {
+      "predicate": { "custom_model_data": 106 },
+      "model": "custom/advancments/skeleton_l2"
+    },
+    {
+      "predicate": { "custom_model_data": 107 },
+      "model": "custom/advancments/skeleton_l3"
+    },
+    {
+      "predicate": { "custom_model_data": 108 },
+      "model": "custom/advancments/skeleton_l4"
+    },
+    {
+      "predicate": { "custom_model_data": 109 },
+      "model": "custom/advancments/hound_l1"
+    },
+    {
+      "predicate": { "custom_model_data": 110 },
+      "model": "custom/advancments/goblin_l1"
+    },
+    {
+      "predicate": { "custom_model_data": 111 },
+      "model": "custom/advancments/stray_l1"
+    },
+    {
+      "predicate": { "custom_model_data": 112 },
+      "model": "custom/advancments/zombie_knight_l1"
+    },
+    {
+      "predicate": { "custom_model_data": 113 },
+      "model": "custom/advancments/zombie_tank_l1"
+    },
+    {
+      "predicate": { "custom_model_data": 114 },
+      "model": "custom/advancments/zombie_assassin_l1"
+    },
+    {
+      "predicate": { "custom_model_data": 115 },
+      "model": "custom/advancments/zombie_knight_l2"
+    },
+    {
+      "predicate": { "custom_model_data": 116 },
+      "model": "custom/advancments/zombie_tank_l2"
+    },
+    {
+      "predicate": { "custom_model_data": 117 },
+      "model": "custom/advancments/goblin_l2"
+    },
+    {
+      "predicate": { "custom_model_data": 118 },
+      "model": "custom/advancments/hound_l2"
+    },
+    {
+      "predicate": { "custom_model_data": 119 },
+      "model": "custom/advancments/zombie_paladin_mb"
+    },
+    {
+      "predicate": { "custom_model_data": 120 },
+      "model": "custom/advancments/goblin_l3"
+    },
+    {
+      "predicate": { "custom_model_data": 121 },
+      "model": "custom/advancments/hound_l3"
+    },
+    {
+      "predicate": { "custom_model_data": 122 },
+      "model": "custom/advancments/hound_mb"
+    },
+    {
+      "predicate": { "custom_model_data": 1000 },
+      "model": "custom/regular_dungeon_door"
+    },{
+      "predicate": { "custom_model_data": 1001 },
+      "model": "custom/zombie_dungeon_door"
+    },{
+      "predicate": { "custom_model_data": 1002 },
+      "model": "custom/skeleton_dungeon_door"
+    },{
+      "predicate": { "custom_model_data": 1003 },
+      "model": "custom/spider_dungeon_door"
+    },{
+      "predicate": { "custom_model_data": 1004 },
+      "model": "custom/zombie_dungeon_door"
+    },
+    {
+      "predicate": { "custom_model_data": 1100 },
+      "model": "custom/trap1"
+    },
+    {
+      "predicate": { "custom_model_data": 1200 },
+      "model": "custom/desert_dungeon/skeleton_key"
+    },
+    {
+      "predicate": { "custom_model_data": 1201 },
+      "model": "custom/desert_dungeon/zombie_key"
+    },
+    {
+      "predicate": { "custom_model_data": 1202 },
+      "model": "custom/desert_dungeon/spider_key"
+    },
+    {
+      "predicate": { "custom_model_data": 1203 },
+      "model": "custom/desert_dungeon/sandy_bone"
+    }
+  ]
+}
