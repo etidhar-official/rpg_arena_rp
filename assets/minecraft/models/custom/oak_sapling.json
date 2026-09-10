@@ -1,0 +1,21 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "block/oak_sapling"
+  },
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "custom/tree"
+    },    {
+      "predicate": { "custom_model_data": 2 },
+      "model": "custom/palm_tree"
+    },    {
+      "predicate": { "custom_model_data": 3 },
+      "model": "custom/beach_unmbrella"
+    },    {
+      "predicate": { "custom_model_data": 4 },
+      "model": "custom/warrior_class"
+    }
+  ]
+}

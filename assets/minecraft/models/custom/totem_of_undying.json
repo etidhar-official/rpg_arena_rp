@@ -1,0 +1,14 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/paper"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data":1
+      },
+      "model": "custom/level-up"
+    }
+  ]
+}

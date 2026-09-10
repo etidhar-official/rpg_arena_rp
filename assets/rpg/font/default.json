@@ -1,0 +1,109 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "minecraft:texts/texture_maker.png",
+      "ascent": 7,
+      "height": 7.5,
+      "chars": ["\uE001"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:texts/player.png",
+      "ascent": 7,
+      "height": 7.5,
+      "chars": ["\uE002"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:texts/dev.png",
+      "ascent": 7,
+      "height": 7.5,
+      "chars": ["\uE003"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:texts/admin.png",
+      "ascent": 7,
+      "height": 7.5,
+      "chars": ["\uE004"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:texts/owner.png",
+      "ascent": 7,
+      "height": 7.5,
+      "chars": ["\uE005"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:texts/builder.png",
+      "ascent": 7,
+      "height": 7.5,
+      "chars": ["\uE006"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:texts/vote.png",
+      "ascent": 7,
+      "height": 15,
+      "chars": ["\uE007"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:texts/tryhard.png",
+      "ascent": 7,
+      "height": 7.5,
+      "chars": ["\uE008"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:texts/bug_finder.png",
+      "ascent": 7,
+      "height": 7.5,
+      "chars": ["\uE009"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:texts/title/rpg_arena_1.png",
+      "ascent": 10,
+      "height": 30,
+      "chars": ["\uE101"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:texts/title/rpg_arena_2.png",
+      "ascent": 10,
+      "height": 30,
+      "chars": ["\uE102"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:texts/title/rpg_arena_3.png",
+      "ascent": 10,
+      "height": 30,
+      "chars": ["\uE103"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:gui/custom/pag1.png",
+      "ascent": 25,
+      "height": 256,
+      "chars": ["\uE901"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:gui/custom/pag2.png",
+      "ascent": 25,
+      "height": 256,
+      "chars": ["\uE902"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:gui/custom/pag3.png",
+      "ascent": 25,
+      "height": 256,
+      "chars": ["\uE903"]
+    }
+  ]
+}

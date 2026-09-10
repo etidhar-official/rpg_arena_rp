@@ -1,0 +1,31 @@
+
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/wooden_hoe"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "minecraft:custom/health_charm"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "minecraft:custom/wolf_tooth_necklace"
+    },    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "minecraft:custom/firey_charm"
+	},    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "minecraft:custom/coral_wand"
+	}
+  ]
+}
