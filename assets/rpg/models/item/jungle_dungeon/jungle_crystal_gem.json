@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "rpg:item/custom/jungle_dungeon/jungle_crystal_gem"
+    }
+}
